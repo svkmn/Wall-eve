@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/users/index.html"
+    },
+    {
+      "source": "/letters",
+      "destination": "/users/letters.html"
+    },
+    {
+      "source": "/write",
+      "destination": "/users/write.html"
+    }
+  ]
+}
